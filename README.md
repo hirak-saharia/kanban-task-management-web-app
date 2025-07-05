@@ -1,6 +1,3 @@
-# Frontend Mentor - Kanban task management web app solution
-
-This is a solution to the [Kanban task management web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -10,7 +7,6 @@ This is a solution to the [Kanban task management web app challenge on Frontend 
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -67,8 +63,4 @@ Bonus:
 - [Have an onclick event fire only on parent and not it's children](https://stackoverflow.com/questions/9183381/how-to-have-click-event-only-fire-on-parent-div-not-children) - Helped me with closing modals when clicking outside the modal content container.
 - [Package for using media queries in React](https://www.npmjs.com/package/react-responsive) - Helped me with rendering elements conditionally based on the window size
 - [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
-## Author
 
-- Website - [Dorian Urem](https://dodoburner.github.io/Portfolio/)
-- Frontend Mentor - [@dodoburner](https://www.frontendmentor.io/profile/dodoburner)
-- LinkedIn - [Dorian Urem](https://www.linkedin.com/in/dorian-urem/)
